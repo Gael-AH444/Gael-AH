@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning some tech like NodeJS, Javascript and Angular<br>🎯 Goals: Be an amazing programmer </p>
+<p align="left">✨ Creating bugs since 2001<br>📚 I'm currently learning some tech like NodeJS, Javascript and React<br>🎯 Goals: Be an amazing programmer </p>
 
 ###
 
